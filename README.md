@@ -48,19 +48,20 @@ The objective of this project is to revive the nostalgic charm of playing flash 
 ## Getting Started
 ### Prerequisites
 
+* Node.js
+  [https://nodejs.org/en/](https://nodejs.org/en/)
+
 * npm
   ```sh
   npm install npm@latest -g
   ```
   ```sh
-  npm install -g parcel-bundler http-server
+  npm install -g parcel-bundler
   ```  
-* Node.js
-  [https://nodejs.org/en/](https://nodejs.org/en/)
-  
+
 ### Opening
 
-1. Clone the repo
+1. Clone/Download the repo
    ```sh
    git clone https://github.com/PenSul/Multimedia-Game.git
    ```
@@ -68,7 +69,6 @@ The objective of this project is to revive the nostalgic charm of playing flash 
    ```sh
    parcel index.html
    ```
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
