@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "Simple_Characters_Boss_1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1120,
+				"h": 744
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "BringerOfDeath.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1120,
+						"h": 744
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1120,
+						"h": 744
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1120,
+						"h": 744
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:96889330b8a0a3b6f8dd0fb795aa7459:3e3e931b96c2751b66645ee62ec248d4:daf8336eb293847d154618a709c1ee24$"
+	}
+}

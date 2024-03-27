@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "Simple_Characters_Boss_2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1728,
+				"h": 1600
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "DemonSlime.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1728,
+						"h": 1600
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1728,
+						"h": 1600
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1728,
+						"h": 1600
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7d4d104e7b17c846ae9d6cd247e81ef5:0e22d4faea35caecfd341bdecf763fd8:ccf963ff7abaf91d0a9ddc70a3225792$"
+	}
+}

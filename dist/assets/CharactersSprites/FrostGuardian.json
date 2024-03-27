@@ -1,0 +1,1133 @@
+{
+	"textures": [
+		{
+			"image": "FrostGuardian.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1728,
+				"h": 768
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "_FrostGuardianAttack_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 192,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 384,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 576,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 768,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 960,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 1152,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 1344,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 1536,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 0,
+						"y": 128,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_0010.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 192,
+						"y": 128,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_0011.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 384,
+						"y": 128,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_0012.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 576,
+						"y": 128,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_0013.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 768,
+						"y": 128,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 960,
+						"y": 128,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 1152,
+						"y": 128,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 1344,
+						"y": 128,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 1536,
+						"y": 128,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 0,
+						"y": 256,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 192,
+						"y": 256,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 384,
+						"y": 256,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 576,
+						"y": 256,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 768,
+						"y": 256,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 960,
+						"y": 256,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_0010.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 1152,
+						"y": 256,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_0011.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 1344,
+						"y": 256,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_0012.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 1536,
+						"y": 256,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_0013.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 0,
+						"y": 384,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_0014.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 192,
+						"y": 384,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_0015.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 384,
+						"y": 384,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianIdle_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 576,
+						"y": 384,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianIdle_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 768,
+						"y": 384,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianIdle_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 960,
+						"y": 384,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianIdle_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 1152,
+						"y": 384,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianIdle_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 1344,
+						"y": 384,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianIdle_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 1536,
+						"y": 384,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianTakeHit_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 0,
+						"y": 512,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianTakeHit_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 192,
+						"y": 512,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianTakeHit_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 384,
+						"y": 512,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianTakeHit_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 576,
+						"y": 512,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianTakeHit_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 768,
+						"y": 512,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianTakeHit_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 960,
+						"y": 512,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianTakeHit_006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 1152,
+						"y": 512,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianWalk_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 1344,
+						"y": 512,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianWalk_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 1536,
+						"y": 512,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianWalk_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 0,
+						"y": 640,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianWalk_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 192,
+						"y": 640,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianWalk_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 384,
+						"y": 640,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianWalk_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 576,
+						"y": 640,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianWalk_006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 768,
+						"y": 640,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianWalk_007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 960,
+						"y": 640,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianWalk_008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 1152,
+						"y": 640,
+						"w": 192,
+						"h": 128
+					}
+				},
+				{
+					"filename": "_FrostGuardianWalk_009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 128
+					},
+					"frame": {
+						"x": 1344,
+						"y": 640,
+						"w": 192,
+						"h": 128
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:015dcd6d92e61e6c54cf0edf56d1eec7:e8d2325ffc779e905ebf5f2c611b464f:2de269cb703dcc2165044f40425d33e4$"
+	}
+}

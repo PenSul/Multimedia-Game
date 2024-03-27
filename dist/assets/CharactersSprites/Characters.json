@@ -1,0 +1,7748 @@
+{
+	"textures": [
+		{
+			"image": "Characters.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1019,
+				"h": 1527
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "_FrostGuardianDeath_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 32,
+						"w": 185,
+						"h": 80
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 185,
+						"h": 80
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 56,
+						"w": 159,
+						"h": 103
+					},
+					"frame": {
+						"x": 0,
+						"y": 80,
+						"w": 159,
+						"h": 103
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 37,
+						"w": 185,
+						"h": 75
+					},
+					"frame": {
+						"x": 185,
+						"y": 0,
+						"w": 185,
+						"h": 75
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 57,
+						"w": 156,
+						"h": 103
+					},
+					"frame": {
+						"x": 0,
+						"y": 183,
+						"w": 156,
+						"h": 103
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 98,
+						"y": 37,
+						"w": 133,
+						"h": 123
+					},
+					"frame": {
+						"x": 0,
+						"y": 286,
+						"w": 133,
+						"h": 123
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 34,
+						"w": 130,
+						"h": 126
+					},
+					"frame": {
+						"x": 0,
+						"y": 409,
+						"w": 130,
+						"h": 126
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 35,
+						"w": 130,
+						"h": 125
+					},
+					"frame": {
+						"x": 0,
+						"y": 535,
+						"w": 130,
+						"h": 125
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 37,
+						"w": 130,
+						"h": 123
+					},
+					"frame": {
+						"x": 0,
+						"y": 660,
+						"w": 130,
+						"h": 123
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 102,
+						"y": 43,
+						"w": 127,
+						"h": 117
+					},
+					"frame": {
+						"x": 0,
+						"y": 783,
+						"w": 127,
+						"h": 117
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 102,
+						"y": 45,
+						"w": 127,
+						"h": 115
+					},
+					"frame": {
+						"x": 0,
+						"y": 900,
+						"w": 127,
+						"h": 115
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 55,
+						"w": 185,
+						"h": 57
+					},
+					"frame": {
+						"x": 370,
+						"y": 0,
+						"w": 185,
+						"h": 57
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_0016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 35,
+						"w": 116,
+						"h": 125
+					},
+					"frame": {
+						"x": 0,
+						"y": 1015,
+						"w": 116,
+						"h": 125
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_0017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 35,
+						"w": 116,
+						"h": 125
+					},
+					"frame": {
+						"x": 0,
+						"y": 1140,
+						"w": 116,
+						"h": 125
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_0018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 37,
+						"w": 116,
+						"h": 123
+					},
+					"frame": {
+						"x": 0,
+						"y": 1265,
+						"w": 116,
+						"h": 123
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 110,
+						"y": 37,
+						"w": 115,
+						"h": 123
+					},
+					"frame": {
+						"x": 0,
+						"y": 1388,
+						"w": 115,
+						"h": 123
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 97,
+						"w": 157,
+						"h": 16
+					},
+					"frame": {
+						"x": 0,
+						"y": 1511,
+						"w": 157,
+						"h": 16
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 32,
+						"w": 165,
+						"h": 80
+					},
+					"frame": {
+						"x": 555,
+						"y": 0,
+						"w": 165,
+						"h": 80
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 61,
+						"w": 162,
+						"h": 99
+					},
+					"frame": {
+						"x": 720,
+						"y": 0,
+						"w": 162,
+						"h": 99
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 49,
+						"w": 130,
+						"h": 111
+					},
+					"frame": {
+						"x": 882,
+						"y": 0,
+						"w": 130,
+						"h": 111
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 93,
+						"w": 163,
+						"h": 19
+					},
+					"frame": {
+						"x": 370,
+						"y": 57,
+						"w": 163,
+						"h": 19
+					}
+				},
+				{
+					"filename": "_BringerOfDeathAttack_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 140,
+						"h": 85
+					},
+					"frame": {
+						"x": 185,
+						"y": 75,
+						"w": 140,
+						"h": 85
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 23,
+						"w": 140,
+						"h": 88
+					},
+					"frame": {
+						"x": 325,
+						"y": 76,
+						"w": 140,
+						"h": 88
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 53,
+						"w": 90,
+						"h": 107
+					},
+					"frame": {
+						"x": 465,
+						"y": 76,
+						"w": 90,
+						"h": 107
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 23,
+						"w": 140,
+						"h": 88
+					},
+					"frame": {
+						"x": 555,
+						"y": 80,
+						"w": 140,
+						"h": 88
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 23,
+						"w": 138,
+						"h": 88
+					},
+					"frame": {
+						"x": 695,
+						"y": 99,
+						"w": 138,
+						"h": 88
+					}
+				},
+				{
+					"filename": "_BringerOfDeathAttack_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 15,
+						"w": 135,
+						"h": 78
+					},
+					"frame": {
+						"x": 833,
+						"y": 111,
+						"w": 135,
+						"h": 78
+					}
+				},
+				{
+					"filename": "_BringerOfDeathDeath_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 35,
+						"w": 51,
+						"h": 58
+					},
+					"frame": {
+						"x": 968,
+						"y": 111,
+						"w": 51,
+						"h": 58
+					}
+				},
+				{
+					"filename": "_BringerOfDeathAttack_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 129,
+						"h": 87
+					},
+					"frame": {
+						"x": 555,
+						"y": 168,
+						"w": 129,
+						"h": 87
+					}
+				},
+				{
+					"filename": "_BringerOfDeathAttack_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 128,
+						"h": 87
+					},
+					"frame": {
+						"x": 684,
+						"y": 187,
+						"w": 128,
+						"h": 87
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 42,
+						"w": 121,
+						"h": 118
+					},
+					"frame": {
+						"x": 812,
+						"y": 189,
+						"w": 121,
+						"h": 118
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 102,
+						"y": 40,
+						"w": 119,
+						"h": 120
+					},
+					"frame": {
+						"x": 133,
+						"y": 286,
+						"w": 119,
+						"h": 120
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 53,
+						"w": 82,
+						"h": 107
+					},
+					"frame": {
+						"x": 933,
+						"y": 189,
+						"w": 82,
+						"h": 107
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 116,
+						"y": 44,
+						"w": 88,
+						"h": 116
+					},
+					"frame": {
+						"x": 116,
+						"y": 1015,
+						"w": 88,
+						"h": 116
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 45,
+						"w": 97,
+						"h": 115
+					},
+					"frame": {
+						"x": 116,
+						"y": 1131,
+						"w": 97,
+						"h": 115
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 49,
+						"w": 95,
+						"h": 111
+					},
+					"frame": {
+						"x": 116,
+						"y": 1246,
+						"w": 95,
+						"h": 111
+					}
+				},
+				{
+					"filename": "_BringerOfDeathAttack_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 114,
+						"h": 84
+					},
+					"frame": {
+						"x": 116,
+						"y": 1357,
+						"w": 114,
+						"h": 84
+					}
+				},
+				{
+					"filename": "_GoblinAttack_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 54,
+						"w": 90,
+						"h": 48
+					},
+					"frame": {
+						"x": 115,
+						"y": 1441,
+						"w": 90,
+						"h": 48
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 49,
+						"w": 92,
+						"h": 111
+					},
+					"frame": {
+						"x": 211,
+						"y": 1246,
+						"w": 92,
+						"h": 111
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 54,
+						"w": 78,
+						"h": 106
+					},
+					"frame": {
+						"x": 230,
+						"y": 1357,
+						"w": 78,
+						"h": 106
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 19,
+						"w": 120,
+						"h": 92
+					},
+					"frame": {
+						"x": 133,
+						"y": 406,
+						"w": 120,
+						"h": 92
+					}
+				},
+				{
+					"filename": "_DemonSlimeTakeHit_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 53,
+						"w": 104,
+						"h": 107
+					},
+					"frame": {
+						"x": 130,
+						"y": 498,
+						"w": 104,
+						"h": 107
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 79,
+						"y": 56,
+						"w": 101,
+						"h": 104
+					},
+					"frame": {
+						"x": 130,
+						"y": 605,
+						"w": 101,
+						"h": 104
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_0019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 73,
+						"w": 116,
+						"h": 87
+					},
+					"frame": {
+						"x": 130,
+						"y": 709,
+						"w": 116,
+						"h": 87
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 19,
+						"w": 118,
+						"h": 92
+					},
+					"frame": {
+						"x": 127,
+						"y": 796,
+						"w": 118,
+						"h": 92
+					}
+				},
+				{
+					"filename": "_DemonSlimeIdle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 100,
+						"y": 51,
+						"w": 93,
+						"h": 109
+					},
+					"frame": {
+						"x": 127,
+						"y": 888,
+						"w": 93,
+						"h": 109
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 115,
+						"y": 51,
+						"w": 88,
+						"h": 109
+					},
+					"frame": {
+						"x": 220,
+						"y": 888,
+						"w": 88,
+						"h": 109
+					}
+				},
+				{
+					"filename": "_DemonSlimeIdle_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 100,
+						"y": 51,
+						"w": 93,
+						"h": 109
+					},
+					"frame": {
+						"x": 204,
+						"y": 997,
+						"w": 93,
+						"h": 109
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 116,
+						"y": 47,
+						"w": 88,
+						"h": 113
+					},
+					"frame": {
+						"x": 213,
+						"y": 1106,
+						"w": 88,
+						"h": 113
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 19,
+						"w": 73,
+						"h": 92
+					},
+					"frame": {
+						"x": 245,
+						"y": 796,
+						"w": 73,
+						"h": 92
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 115,
+						"y": 53,
+						"w": 91,
+						"h": 107
+					},
+					"frame": {
+						"x": 234,
+						"y": 498,
+						"w": 91,
+						"h": 107
+					}
+				},
+				{
+					"filename": "_DemonSlimeTakeHit_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 110,
+						"y": 56,
+						"w": 92,
+						"h": 104
+					},
+					"frame": {
+						"x": 231,
+						"y": 605,
+						"w": 92,
+						"h": 104
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 32,
+						"w": 115,
+						"h": 80
+					},
+					"frame": {
+						"x": 246,
+						"y": 709,
+						"w": 115,
+						"h": 80
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 100,
+						"y": 56,
+						"w": 80,
+						"h": 104
+					},
+					"frame": {
+						"x": 323,
+						"y": 605,
+						"w": 80,
+						"h": 104
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 116,
+						"y": 49,
+						"w": 88,
+						"h": 111
+					},
+					"frame": {
+						"x": 318,
+						"y": 789,
+						"w": 88,
+						"h": 111
+					}
+				},
+				{
+					"filename": "_DemonSlimeIdle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 52,
+						"w": 93,
+						"h": 108
+					},
+					"frame": {
+						"x": 308,
+						"y": 900,
+						"w": 93,
+						"h": 108
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 19,
+						"w": 104,
+						"h": 92
+					},
+					"frame": {
+						"x": 297,
+						"y": 1008,
+						"w": 104,
+						"h": 92
+					}
+				},
+				{
+					"filename": "_DemonSlimeIdle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 102,
+						"y": 54,
+						"w": 89,
+						"h": 106
+					},
+					"frame": {
+						"x": 301,
+						"y": 1100,
+						"w": 89,
+						"h": 106
+					}
+				},
+				{
+					"filename": "_DemonSlimeTakeHit_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 115,
+						"y": 55,
+						"w": 87,
+						"h": 105
+					},
+					"frame": {
+						"x": 303,
+						"y": 1206,
+						"w": 87,
+						"h": 105
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 53,
+						"w": 82,
+						"h": 107
+					},
+					"frame": {
+						"x": 308,
+						"y": 1311,
+						"w": 82,
+						"h": 107
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 69,
+						"w": 82,
+						"h": 91
+					},
+					"frame": {
+						"x": 308,
+						"y": 1418,
+						"w": 82,
+						"h": 91
+					}
+				},
+				{
+					"filename": "_DemonSlimeIdle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 53,
+						"w": 82,
+						"h": 107
+					},
+					"frame": {
+						"x": 390,
+						"y": 1100,
+						"w": 82,
+						"h": 107
+					}
+				},
+				{
+					"filename": "_DemonSlimeTakeHit_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 53,
+						"w": 82,
+						"h": 107
+					},
+					"frame": {
+						"x": 390,
+						"y": 1207,
+						"w": 82,
+						"h": 107
+					}
+				},
+				{
+					"filename": "_DemonSlimeTakeHit_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 55,
+						"w": 82,
+						"h": 105
+					},
+					"frame": {
+						"x": 390,
+						"y": 1314,
+						"w": 82,
+						"h": 105
+					}
+				},
+				{
+					"filename": "_DemonSlimeIdle_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 102,
+						"y": 56,
+						"w": 89,
+						"h": 104
+					},
+					"frame": {
+						"x": 390,
+						"y": 1419,
+						"w": 89,
+						"h": 104
+					}
+				},
+				{
+					"filename": "_FrostGuardianIdle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 18,
+						"w": 83,
+						"h": 93
+					},
+					"frame": {
+						"x": 472,
+						"y": 183,
+						"w": 83,
+						"h": 93
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 97,
+						"w": 107,
+						"h": 17
+					},
+					"frame": {
+						"x": 555,
+						"y": 255,
+						"w": 107,
+						"h": 17
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_0020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 156,
+						"w": 116,
+						"h": 4
+					},
+					"frame": {
+						"x": 157,
+						"y": 1523,
+						"w": 116,
+						"h": 4
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_0021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 156,
+						"w": 116,
+						"h": 4
+					},
+					"frame": {
+						"x": 273,
+						"y": 1523,
+						"w": 116,
+						"h": 4
+					}
+				},
+				{
+					"filename": "_BringerOfDeathAttack_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 22,
+						"w": 63,
+						"h": 71
+					},
+					"frame": {
+						"x": 361,
+						"y": 709,
+						"w": 63,
+						"h": 71
+					}
+				},
+				{
+					"filename": "_FlyingEyeAttack_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 62,
+						"w": 43,
+						"h": 27
+					},
+					"frame": {
+						"x": 213,
+						"y": 1219,
+						"w": 43,
+						"h": 27
+					}
+				},
+				{
+					"filename": "_FlyingEyeAttack_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 62,
+						"w": 43,
+						"h": 27
+					},
+					"frame": {
+						"x": 256,
+						"y": 1219,
+						"w": 43,
+						"h": 27
+					}
+				},
+				{
+					"filename": "_DemonSlimeWalk_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 58,
+						"w": 66,
+						"h": 102
+					},
+					"frame": {
+						"x": 406,
+						"y": 780,
+						"w": 66,
+						"h": 102
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 97,
+						"w": 107,
+						"h": 17
+					},
+					"frame": {
+						"x": 555,
+						"y": 272,
+						"w": 107,
+						"h": 17
+					}
+				},
+				{
+					"filename": "_BringerOfDeathDeath_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 33,
+						"w": 53,
+						"h": 60
+					},
+					"frame": {
+						"x": 205,
+						"y": 1463,
+						"w": 53,
+						"h": 60
+					}
+				},
+				{
+					"filename": "_BringerOfDeathDeath_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 37,
+						"w": 50,
+						"h": 56
+					},
+					"frame": {
+						"x": 258,
+						"y": 1463,
+						"w": 50,
+						"h": 56
+					}
+				},
+				{
+					"filename": "_DemonSlimeWalk_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 58,
+						"w": 69,
+						"h": 102
+					},
+					"frame": {
+						"x": 401,
+						"y": 900,
+						"w": 69,
+						"h": 102
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 110,
+						"y": 62,
+						"w": 70,
+						"h": 98
+					},
+					"frame": {
+						"x": 401,
+						"y": 1002,
+						"w": 70,
+						"h": 98
+					}
+				},
+				{
+					"filename": "_DemonSlimeWalk_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 58,
+						"w": 76,
+						"h": 102
+					},
+					"frame": {
+						"x": 156,
+						"y": 183,
+						"w": 76,
+						"h": 102
+					}
+				},
+				{
+					"filename": "_DemonSlimeWalk_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 59,
+						"w": 87,
+						"h": 101
+					},
+					"frame": {
+						"x": 232,
+						"y": 160,
+						"w": 87,
+						"h": 101
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 17,
+						"w": 95,
+						"h": 94
+					},
+					"frame": {
+						"x": 319,
+						"y": 164,
+						"w": 95,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 16,
+						"w": 58,
+						"h": 95
+					},
+					"frame": {
+						"x": 414,
+						"y": 183,
+						"w": 58,
+						"h": 95
+					}
+				},
+				{
+					"filename": "_DemonSlimeWalk_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 58,
+						"w": 80,
+						"h": 102
+					},
+					"frame": {
+						"x": 252,
+						"y": 261,
+						"w": 80,
+						"h": 102
+					}
+				},
+				{
+					"filename": "_DemonSlimeWalk_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 58,
+						"w": 82,
+						"h": 102
+					},
+					"frame": {
+						"x": 332,
+						"y": 258,
+						"w": 82,
+						"h": 102
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 61,
+						"w": 72,
+						"h": 99
+					},
+					"frame": {
+						"x": 414,
+						"y": 278,
+						"w": 72,
+						"h": 99
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 17,
+						"w": 69,
+						"h": 94
+					},
+					"frame": {
+						"x": 486,
+						"y": 276,
+						"w": 69,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 17,
+						"w": 95,
+						"h": 94
+					},
+					"frame": {
+						"x": 555,
+						"y": 289,
+						"w": 95,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_DemonSlimeWalk_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 59,
+						"w": 82,
+						"h": 101
+					},
+					"frame": {
+						"x": 253,
+						"y": 363,
+						"w": 82,
+						"h": 101
+					}
+				},
+				{
+					"filename": "_DemonSlimeWalk_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 59,
+						"w": 75,
+						"h": 101
+					},
+					"frame": {
+						"x": 335,
+						"y": 360,
+						"w": 75,
+						"h": 101
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 17,
+						"w": 81,
+						"h": 94
+					},
+					"frame": {
+						"x": 410,
+						"y": 377,
+						"w": 81,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_BringerOfDeathAttack_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 22,
+						"w": 64,
+						"h": 71
+					},
+					"frame": {
+						"x": 491,
+						"y": 370,
+						"w": 64,
+						"h": 71
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 17,
+						"w": 95,
+						"h": 94
+					},
+					"frame": {
+						"x": 555,
+						"y": 383,
+						"w": 95,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_KnightAttack2_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 44,
+						"w": 64,
+						"h": 36
+					},
+					"frame": {
+						"x": 491,
+						"y": 441,
+						"w": 64,
+						"h": 36
+					}
+				},
+				{
+					"filename": "_FlyingEyeFlight_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 59,
+						"w": 43,
+						"h": 34
+					},
+					"frame": {
+						"x": 253,
+						"y": 464,
+						"w": 43,
+						"h": 34
+					}
+				},
+				{
+					"filename": "_DemonSlimeWalk_0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 58,
+						"w": 72,
+						"h": 102
+					},
+					"frame": {
+						"x": 650,
+						"y": 289,
+						"w": 72,
+						"h": 102
+					}
+				},
+				{
+					"filename": "_FrostGuardianWalk_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 16,
+						"w": 85,
+						"h": 95
+					},
+					"frame": {
+						"x": 722,
+						"y": 274,
+						"w": 85,
+						"h": 95
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 59,
+						"w": 74,
+						"h": 101
+					},
+					"frame": {
+						"x": 650,
+						"y": 391,
+						"w": 74,
+						"h": 101
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 17,
+						"w": 95,
+						"h": 94
+					},
+					"frame": {
+						"x": 724,
+						"y": 369,
+						"w": 95,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_GoblinAttack_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 54,
+						"w": 89,
+						"h": 48
+					},
+					"frame": {
+						"x": 807,
+						"y": 307,
+						"w": 89,
+						"h": 48
+					}
+				},
+				{
+					"filename": "_DemonSlimeWalk_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 59,
+						"w": 72,
+						"h": 101
+					},
+					"frame": {
+						"x": 819,
+						"y": 355,
+						"w": 72,
+						"h": 101
+					}
+				},
+				{
+					"filename": "_FrostGuardianWalk_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 17,
+						"w": 95,
+						"h": 94
+					},
+					"frame": {
+						"x": 724,
+						"y": 463,
+						"w": 95,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_DemonSlimeWalk_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 59,
+						"w": 70,
+						"h": 101
+					},
+					"frame": {
+						"x": 819,
+						"y": 456,
+						"w": 70,
+						"h": 101
+					}
+				},
+				{
+					"filename": "_FlyingEyeDeath_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 87,
+						"w": 58,
+						"h": 15
+					},
+					"frame": {
+						"x": 662,
+						"y": 274,
+						"w": 58,
+						"h": 15
+					}
+				},
+				{
+					"filename": "_DemonSlimeWalk_0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 59,
+						"w": 70,
+						"h": 101
+					},
+					"frame": {
+						"x": 891,
+						"y": 355,
+						"w": 70,
+						"h": 101
+					}
+				},
+				{
+					"filename": "_FrostGuardianWalk_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 16,
+						"w": 72,
+						"h": 95
+					},
+					"frame": {
+						"x": 889,
+						"y": 456,
+						"w": 72,
+						"h": 95
+					}
+				},
+				{
+					"filename": "_SkeletonShield_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 54,
+						"w": 42,
+						"h": 48
+					},
+					"frame": {
+						"x": 896,
+						"y": 307,
+						"w": 42,
+						"h": 48
+					}
+				},
+				{
+					"filename": "_BringerOfDeathWalk_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 73,
+						"y": 37,
+						"w": 58,
+						"h": 56
+					},
+					"frame": {
+						"x": 961,
+						"y": 296,
+						"w": 58,
+						"h": 56
+					}
+				},
+				{
+					"filename": "_BringerOfDeathWalk_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 39,
+						"w": 58,
+						"h": 54
+					},
+					"frame": {
+						"x": 961,
+						"y": 352,
+						"w": 58,
+						"h": 54
+					}
+				},
+				{
+					"filename": "_BringerOfDeathCast_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 0,
+						"w": 55,
+						"h": 93
+					},
+					"frame": {
+						"x": 961,
+						"y": 406,
+						"w": 55,
+						"h": 93
+					}
+				},
+				{
+					"filename": "_BringerOfDeathWalk_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 37,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 961,
+						"y": 499,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "_MushroomRun_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 63,
+						"w": 26,
+						"h": 39
+					},
+					"frame": {
+						"x": 159,
+						"y": 80,
+						"w": 26,
+						"h": 39
+					}
+				},
+				{
+					"filename": "_MushroomRun_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 63,
+						"w": 26,
+						"h": 39
+					},
+					"frame": {
+						"x": 159,
+						"y": 119,
+						"w": 26,
+						"h": 39
+					}
+				},
+				{
+					"filename": "_GoblinIdle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 68,
+						"w": 35,
+						"h": 34
+					},
+					"frame": {
+						"x": 296,
+						"y": 464,
+						"w": 35,
+						"h": 34
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 17,
+						"w": 53,
+						"h": 94
+					},
+					"frame": {
+						"x": 325,
+						"y": 498,
+						"w": 53,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_FrostGuardianWalk_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 17,
+						"w": 95,
+						"h": 94
+					},
+					"frame": {
+						"x": 378,
+						"y": 471,
+						"w": 95,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 18,
+						"w": 92,
+						"h": 93
+					},
+					"frame": {
+						"x": 473,
+						"y": 477,
+						"w": 92,
+						"h": 93
+					}
+				},
+				{
+					"filename": "_FrostGuardianWalk_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 18,
+						"w": 85,
+						"h": 93
+					},
+					"frame": {
+						"x": 565,
+						"y": 477,
+						"w": 85,
+						"h": 93
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 18,
+						"w": 72,
+						"h": 93
+					},
+					"frame": {
+						"x": 650,
+						"y": 492,
+						"w": 72,
+						"h": 93
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 20,
+						"w": 85,
+						"h": 91
+					},
+					"frame": {
+						"x": 722,
+						"y": 557,
+						"w": 85,
+						"h": 91
+					}
+				},
+				{
+					"filename": "_FrostGuardianAttack_0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 17,
+						"w": 81,
+						"h": 94
+					},
+					"frame": {
+						"x": 807,
+						"y": 557,
+						"w": 81,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_BringerOfDeathCast_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 0,
+						"w": 54,
+						"h": 93
+					},
+					"frame": {
+						"x": 403,
+						"y": 565,
+						"w": 54,
+						"h": 93
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 17,
+						"w": 81,
+						"h": 94
+					},
+					"frame": {
+						"x": 457,
+						"y": 570,
+						"w": 81,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_FrostGuardianIdle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 17,
+						"w": 81,
+						"h": 94
+					},
+					"frame": {
+						"x": 538,
+						"y": 570,
+						"w": 81,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_FrostGuardianIdle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 17,
+						"w": 81,
+						"h": 94
+					},
+					"frame": {
+						"x": 619,
+						"y": 585,
+						"w": 81,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_BringerOfDeathCast_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 42,
+						"w": 52,
+						"h": 51
+					},
+					"frame": {
+						"x": 403,
+						"y": 658,
+						"w": 52,
+						"h": 51
+					}
+				},
+				{
+					"filename": "_SkeletonAttack_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 47,
+						"w": 82,
+						"h": 55
+					},
+					"frame": {
+						"x": 455,
+						"y": 664,
+						"w": 82,
+						"h": 55
+					}
+				},
+				{
+					"filename": "_SkeletonAttack_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 48,
+						"w": 82,
+						"h": 54
+					},
+					"frame": {
+						"x": 537,
+						"y": 664,
+						"w": 82,
+						"h": 54
+					}
+				},
+				{
+					"filename": "_BringerOfDeathDeath_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 27,
+						"w": 50,
+						"h": 61
+					},
+					"frame": {
+						"x": 424,
+						"y": 719,
+						"w": 50,
+						"h": 61
+					}
+				},
+				{
+					"filename": "_FrostGuardianDeath_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 20,
+						"w": 71,
+						"h": 91
+					},
+					"frame": {
+						"x": 474,
+						"y": 719,
+						"w": 71,
+						"h": 91
+					}
+				},
+				{
+					"filename": "_FrostGuardianIdle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 17,
+						"w": 81,
+						"h": 94
+					},
+					"frame": {
+						"x": 545,
+						"y": 718,
+						"w": 81,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_FrostGuardianWalk_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 18,
+						"w": 72,
+						"h": 93
+					},
+					"frame": {
+						"x": 472,
+						"y": 810,
+						"w": 72,
+						"h": 93
+					}
+				},
+				{
+					"filename": "_FrostGuardianIdle_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 17,
+						"w": 81,
+						"h": 94
+					},
+					"frame": {
+						"x": 544,
+						"y": 812,
+						"w": 81,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_FrostGuardianWalk_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 17,
+						"w": 71,
+						"h": 94
+					},
+					"frame": {
+						"x": 470,
+						"y": 903,
+						"w": 71,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_FrostGuardianIdle_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 17,
+						"w": 81,
+						"h": 94
+					},
+					"frame": {
+						"x": 541,
+						"y": 906,
+						"w": 81,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_BringerOfDeathCast_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 73,
+						"y": 0,
+						"w": 53,
+						"h": 93
+					},
+					"frame": {
+						"x": 471,
+						"y": 997,
+						"w": 53,
+						"h": 93
+					}
+				},
+				{
+					"filename": "_FrostGuardianTakeHit_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 18,
+						"w": 81,
+						"h": 93
+					},
+					"frame": {
+						"x": 524,
+						"y": 1000,
+						"w": 81,
+						"h": 93
+					}
+				},
+				{
+					"filename": "_FrostGuardianTakeHit_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 17,
+						"w": 78,
+						"h": 94
+					},
+					"frame": {
+						"x": 626,
+						"y": 679,
+						"w": 78,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_FrostGuardianTakeHit_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 17,
+						"w": 81,
+						"h": 94
+					},
+					"frame": {
+						"x": 704,
+						"y": 648,
+						"w": 81,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_FrostGuardianTakeHit_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 17,
+						"w": 78,
+						"h": 94
+					},
+					"frame": {
+						"x": 785,
+						"y": 651,
+						"w": 78,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_FrostGuardianTakeHit_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 17,
+						"w": 78,
+						"h": 94
+					},
+					"frame": {
+						"x": 863,
+						"y": 651,
+						"w": 78,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_FrostGuardianTakeHit_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 17,
+						"w": 78,
+						"h": 94
+					},
+					"frame": {
+						"x": 941,
+						"y": 555,
+						"w": 78,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_FrostGuardianTakeHit_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 17,
+						"w": 78,
+						"h": 94
+					},
+					"frame": {
+						"x": 941,
+						"y": 649,
+						"w": 78,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_BringerOfDeathCast_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 73,
+						"y": 0,
+						"w": 53,
+						"h": 93
+					},
+					"frame": {
+						"x": 888,
+						"y": 557,
+						"w": 53,
+						"h": 93
+					}
+				},
+				{
+					"filename": "_KnightAttack2_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 39,
+						"w": 77,
+						"h": 41
+					},
+					"frame": {
+						"x": 626,
+						"y": 773,
+						"w": 77,
+						"h": 41
+					}
+				},
+				{
+					"filename": "_FrostGuardianWalk_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 17,
+						"w": 75,
+						"h": 94
+					},
+					"frame": {
+						"x": 625,
+						"y": 814,
+						"w": 75,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_FrostGuardianWalk_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 17,
+						"w": 75,
+						"h": 94
+					},
+					"frame": {
+						"x": 622,
+						"y": 908,
+						"w": 75,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_FrostGuardianWalk_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 17,
+						"w": 71,
+						"h": 94
+					},
+					"frame": {
+						"x": 605,
+						"y": 1002,
+						"w": 71,
+						"h": 94
+					}
+				},
+				{
+					"filename": "_KnightAttack2NoMovement_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 39,
+						"w": 77,
+						"h": 41
+					},
+					"frame": {
+						"x": 704,
+						"y": 742,
+						"w": 77,
+						"h": 41
+					}
+				},
+				{
+					"filename": "_KnightCombo_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 39,
+						"w": 77,
+						"h": 41
+					},
+					"frame": {
+						"x": 781,
+						"y": 745,
+						"w": 77,
+						"h": 41
+					}
+				},
+				{
+					"filename": "_KnightComboNoMovement_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 39,
+						"w": 77,
+						"h": 41
+					},
+					"frame": {
+						"x": 858,
+						"y": 745,
+						"w": 77,
+						"h": 41
+					}
+				},
+				{
+					"filename": "_BringerOfDeathDeath_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 31,
+						"w": 52,
+						"h": 62
+					},
+					"frame": {
+						"x": 472,
+						"y": 1090,
+						"w": 52,
+						"h": 62
+					}
+				},
+				{
+					"filename": "_BringerOfDeathAttack_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 37,
+						"w": 62,
+						"h": 56
+					},
+					"frame": {
+						"x": 524,
+						"y": 1093,
+						"w": 62,
+						"h": 56
+					}
+				},
+				{
+					"filename": "_BringerOfDeathWalk_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 36,
+						"w": 56,
+						"h": 57
+					},
+					"frame": {
+						"x": 472,
+						"y": 1152,
+						"w": 56,
+						"h": 57
+					}
+				},
+				{
+					"filename": "_BringerOfDeathWalk_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 36,
+						"w": 52,
+						"h": 57
+					},
+					"frame": {
+						"x": 472,
+						"y": 1209,
+						"w": 52,
+						"h": 57
+					}
+				},
+				{
+					"filename": "_SkeletonTakeHit_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 47,
+						"w": 52,
+						"h": 55
+					},
+					"frame": {
+						"x": 472,
+						"y": 1266,
+						"w": 52,
+						"h": 55
+					}
+				},
+				{
+					"filename": "_BringerOfDeathWalk_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 37,
+						"w": 50,
+						"h": 56
+					},
+					"frame": {
+						"x": 472,
+						"y": 1321,
+						"w": 50,
+						"h": 56
+					}
+				},
+				{
+					"filename": "_SkeletonTakeHit_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 49,
+						"w": 52,
+						"h": 53
+					},
+					"frame": {
+						"x": 528,
+						"y": 1149,
+						"w": 52,
+						"h": 53
+					}
+				},
+				{
+					"filename": "_GoblinRun_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 63,
+						"w": 22,
+						"h": 39
+					},
+					"frame": {
+						"x": 700,
+						"y": 585,
+						"w": 22,
+						"h": 39
+					}
+				},
+				{
+					"filename": "_KnightDeath_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 58,
+						"w": 38,
+						"h": 22
+					},
+					"frame": {
+						"x": 115,
+						"y": 1489,
+						"w": 38,
+						"h": 22
+					}
+				},
+				{
+					"filename": "_KnightDeath_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 67,
+						"w": 42,
+						"h": 13
+					},
+					"frame": {
+						"x": 325,
+						"y": 592,
+						"w": 42,
+						"h": 13
+					}
+				},
+				{
+					"filename": "_KnightAttack_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 37,
+						"w": 66,
+						"h": 43
+					},
+					"frame": {
+						"x": 703,
+						"y": 783,
+						"w": 66,
+						"h": 43
+					}
+				},
+				{
+					"filename": "_KnightAttackNoMovement_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 37,
+						"w": 66,
+						"h": 43
+					},
+					"frame": {
+						"x": 700,
+						"y": 826,
+						"w": 66,
+						"h": 43
+					}
+				},
+				{
+					"filename": "_KnightCombo_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 37,
+						"w": 66,
+						"h": 43
+					},
+					"frame": {
+						"x": 700,
+						"y": 869,
+						"w": 66,
+						"h": 43
+					}
+				},
+				{
+					"filename": "_KnightComboNoMovement_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 37,
+						"w": 66,
+						"h": 43
+					},
+					"frame": {
+						"x": 697,
+						"y": 912,
+						"w": 66,
+						"h": 43
+					}
+				},
+				{
+					"filename": "_KnightAttack_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 44,
+						"w": 65,
+						"h": 36
+					},
+					"frame": {
+						"x": 697,
+						"y": 955,
+						"w": 65,
+						"h": 36
+					}
+				},
+				{
+					"filename": "BringerOFDeathSpell_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 36,
+						"w": 37,
+						"h": 18
+					},
+					"frame": {
+						"x": 127,
+						"y": 997,
+						"w": 37,
+						"h": 18
+					}
+				},
+				{
+					"filename": "BringerOFDeathSpell_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 36,
+						"w": 37,
+						"h": 18
+					},
+					"frame": {
+						"x": 406,
+						"y": 882,
+						"w": 37,
+						"h": 18
+					}
+				},
+				{
+					"filename": "_GoblinRun_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 63,
+						"w": 25,
+						"h": 39
+					},
+					"frame": {
+						"x": 378,
+						"y": 565,
+						"w": 25,
+						"h": 39
+					}
+				},
+				{
+					"filename": "_KnightAttackNoMovement_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 44,
+						"w": 65,
+						"h": 36
+					},
+					"frame": {
+						"x": 769,
+						"y": 786,
+						"w": 65,
+						"h": 36
+					}
+				},
+				{
+					"filename": "_KnightCombo_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 44,
+						"w": 65,
+						"h": 36
+					},
+					"frame": {
+						"x": 834,
+						"y": 786,
+						"w": 65,
+						"h": 36
+					}
+				},
+				{
+					"filename": "_GoblinDeath_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 63,
+						"w": 45,
+						"h": 23
+					},
+					"frame": {
+						"x": 159,
+						"y": 160,
+						"w": 45,
+						"h": 23
+					}
+				},
+				{
+					"filename": "_KnightAttack2_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 43,
+						"w": 42,
+						"h": 37
+					},
+					"frame": {
+						"x": 335,
+						"y": 461,
+						"w": 42,
+						"h": 37
+					}
+				},
+				{
+					"filename": "_KnightAttack2NoMovement_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 64,
+						"h": 36
+					},
+					"frame": {
+						"x": 472,
+						"y": 1377,
+						"w": 64,
+						"h": 36
+					}
+				},
+				{
+					"filename": "_BringerOfDeathCast_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 39,
+						"w": 50,
+						"h": 54
+					},
+					"frame": {
+						"x": 479,
+						"y": 1413,
+						"w": 50,
+						"h": 54
+					}
+				},
+				{
+					"filename": "_BringerOfDeathDeath_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 26,
+						"w": 50,
+						"h": 54
+					},
+					"frame": {
+						"x": 479,
+						"y": 1467,
+						"w": 50,
+						"h": 54
+					}
+				},
+				{
+					"filename": "_FlyingEyeDeath_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 85,
+						"w": 51,
+						"h": 17
+					},
+					"frame": {
+						"x": 968,
+						"y": 169,
+						"w": 51,
+						"h": 17
+					}
+				},
+				{
+					"filename": "_BringerOfDeathCast_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 40,
+						"w": 50,
+						"h": 53
+					},
+					"frame": {
+						"x": 586,
+						"y": 1096,
+						"w": 50,
+						"h": 53
+					}
+				},
+				{
+					"filename": "_BringerOfDeathCast_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 41,
+						"w": 50,
+						"h": 52
+					},
+					"frame": {
+						"x": 580,
+						"y": 1149,
+						"w": 50,
+						"h": 52
+					}
+				},
+				{
+					"filename": "_BringerOfDeathAttack_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 37,
+						"w": 46,
+						"h": 56
+					},
+					"frame": {
+						"x": 636,
+						"y": 1096,
+						"w": 46,
+						"h": 56
+					}
+				},
+				{
+					"filename": "_BringerOfDeathIdle_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 39,
+						"w": 49,
+						"h": 54
+					},
+					"frame": {
+						"x": 630,
+						"y": 1152,
+						"w": 49,
+						"h": 54
+					}
+				},
+				{
+					"filename": "_SkeletonAttack_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 43,
+						"w": 38,
+						"h": 59
+					},
+					"frame": {
+						"x": 676,
+						"y": 1002,
+						"w": 38,
+						"h": 59
+					}
+				},
+				{
+					"filename": "_BringerOfDeathDeath_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 37,
+						"w": 47,
+						"h": 56
+					},
+					"frame": {
+						"x": 714,
+						"y": 991,
+						"w": 47,
+						"h": 56
+					}
+				},
+				{
+					"filename": "_FlyingEyeTakeHit_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 60,
+						"w": 43,
+						"h": 35
+					},
+					"frame": {
+						"x": 676,
+						"y": 1061,
+						"w": 43,
+						"h": 35
+					}
+				},
+				{
+					"filename": "_BringerOfDeathIdle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 37,
+						"w": 42,
+						"h": 56
+					},
+					"frame": {
+						"x": 682,
+						"y": 1096,
+						"w": 42,
+						"h": 56
+					}
+				},
+				{
+					"filename": "_BringerOfDeathIdle_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 37,
+						"w": 47,
+						"h": 56
+					},
+					"frame": {
+						"x": 679,
+						"y": 1152,
+						"w": 47,
+						"h": 56
+					}
+				},
+				{
+					"filename": "_SkeletonShield_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 54,
+						"w": 42,
+						"h": 48
+					},
+					"frame": {
+						"x": 719,
+						"y": 1047,
+						"w": 42,
+						"h": 48
+					}
+				},
+				{
+					"filename": "_BringerOfDeathIdle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 36,
+						"w": 42,
+						"h": 57
+					},
+					"frame": {
+						"x": 724,
+						"y": 1095,
+						"w": 42,
+						"h": 57
+					}
+				},
+				{
+					"filename": "_BringerOfDeathIdle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 35,
+						"w": 43,
+						"h": 58
+					},
+					"frame": {
+						"x": 726,
+						"y": 1152,
+						"w": 43,
+						"h": 58
+					}
+				},
+				{
+					"filename": "_KnightDeath_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 63,
+						"w": 40,
+						"h": 17
+					},
+					"frame": {
+						"x": 164,
+						"y": 997,
+						"w": 40,
+						"h": 17
+					}
+				},
+				{
+					"filename": "_BringerOfDeathAttack_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 38,
+						"w": 39,
+						"h": 55
+					},
+					"frame": {
+						"x": 899,
+						"y": 786,
+						"w": 39,
+						"h": 55
+					}
+				},
+				{
+					"filename": "_BringerOfDeathIdle_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 37,
+						"w": 45,
+						"h": 56
+					},
+					"frame": {
+						"x": 522,
+						"y": 1321,
+						"w": 45,
+						"h": 56
+					}
+				},
+				{
+					"filename": "_KnightComboNoMovement_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 44,
+						"w": 65,
+						"h": 36
+					},
+					"frame": {
+						"x": 769,
+						"y": 822,
+						"w": 65,
+						"h": 36
+					}
+				},
+				{
+					"filename": "_KnightCombo_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 44,
+						"w": 64,
+						"h": 36
+					},
+					"frame": {
+						"x": 834,
+						"y": 822,
+						"w": 64,
+						"h": 36
+					}
+				},
+				{
+					"filename": "_BringerOfDeathWalk_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 39,
+						"w": 48,
+						"h": 54
+					},
+					"frame": {
+						"x": 766,
+						"y": 858,
+						"w": 48,
+						"h": 54
+					}
+				},
+				{
+					"filename": "_BringerOfDeathIdle_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 82,
+						"y": 38,
+						"w": 47,
+						"h": 55
+					},
+					"frame": {
+						"x": 814,
+						"y": 858,
+						"w": 47,
+						"h": 55
+					}
+				},
+				{
+					"filename": "_BringerOfDeathDeath_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 38,
+						"w": 42,
+						"h": 55
+					},
+					"frame": {
+						"x": 861,
+						"y": 858,
+						"w": 42,
+						"h": 55
+					}
+				},
+				{
+					"filename": "_BringerOfDeathTakeHit_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 79,
+						"y": 41,
+						"w": 49,
+						"h": 52
+					},
+					"frame": {
+						"x": 763,
+						"y": 912,
+						"w": 49,
+						"h": 52
+					}
+				},
+				{
+					"filename": "_KnightComboNoMovement_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 64,
+						"h": 36
+					},
+					"frame": {
+						"x": 812,
+						"y": 913,
+						"w": 64,
+						"h": 36
+					}
+				},
+				{
+					"filename": "_SkeletonAttack_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 43,
+						"w": 38,
+						"h": 59
+					},
+					"frame": {
+						"x": 903,
+						"y": 841,
+						"w": 38,
+						"h": 59
+					}
+				},
+				{
+					"filename": "_KnightAttack_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 45,
+						"w": 59,
+						"h": 35
+					},
+					"frame": {
+						"x": 762,
+						"y": 964,
+						"w": 59,
+						"h": 35
+					}
+				},
+				{
+					"filename": "_BringerOfDeathWalk_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 79,
+						"y": 37,
+						"w": 47,
+						"h": 56
+					},
+					"frame": {
+						"x": 761,
+						"y": 999,
+						"w": 47,
+						"h": 56
+					}
+				},
+				{
+					"filename": "_BringerOfDeathCast_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 41,
+						"w": 48,
+						"h": 52
+					},
+					"frame": {
+						"x": 821,
+						"y": 949,
+						"w": 48,
+						"h": 52
+					}
+				},
+				{
+					"filename": "_SkeletonDeath_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 49,
+						"w": 47,
+						"h": 55
+					},
+					"frame": {
+						"x": 808,
+						"y": 1001,
+						"w": 47,
+						"h": 55
+					}
+				},
+				{
+					"filename": "_GoblinTakeHit_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 63,
+						"w": 44,
+						"h": 39
+					},
+					"frame": {
+						"x": 761,
+						"y": 1055,
+						"w": 44,
+						"h": 39
+					}
+				},
+				{
+					"filename": "_BringerOfDeathIdle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 35,
+						"w": 43,
+						"h": 58
+					},
+					"frame": {
+						"x": 766,
+						"y": 1094,
+						"w": 43,
+						"h": 58
+					}
+				},
+				{
+					"filename": "_BringerOfDeathTakeHit_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 87,
+						"y": 36,
+						"w": 41,
+						"h": 57
+					},
+					"frame": {
+						"x": 769,
+						"y": 1152,
+						"w": 41,
+						"h": 57
+					}
+				},
+				{
+					"filename": "_KnightAttackNoMovement_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 45,
+						"w": 59,
+						"h": 35
+					},
+					"frame": {
+						"x": 805,
+						"y": 1056,
+						"w": 59,
+						"h": 35
+					}
+				},
+				{
+					"filename": "_SkeletonAttack_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 49,
+						"w": 47,
+						"h": 53
+					},
+					"frame": {
+						"x": 809,
+						"y": 1091,
+						"w": 47,
+						"h": 53
+					}
+				},
+				{
+					"filename": "_SkeletonIdle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 49,
+						"w": 47,
+						"h": 53
+					},
+					"frame": {
+						"x": 810,
+						"y": 1144,
+						"w": 47,
+						"h": 53
+					}
+				},
+				{
+					"filename": "_BringerOfDeathTakeHit_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 38,
+						"w": 43,
+						"h": 55
+					},
+					"frame": {
+						"x": 855,
+						"y": 1001,
+						"w": 43,
+						"h": 55
+					}
+				},
+				{
+					"filename": "_SkeletonIdle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 50,
+						"w": 47,
+						"h": 52
+					},
+					"frame": {
+						"x": 869,
+						"y": 949,
+						"w": 47,
+						"h": 52
+					}
+				},
+				{
+					"filename": "_KnightAttack2_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 44,
+						"w": 46,
+						"h": 36
+					},
+					"frame": {
+						"x": 876,
+						"y": 913,
+						"w": 46,
+						"h": 36
+					}
+				},
+				{
+					"filename": "_SkeletonAttack_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 43,
+						"w": 38,
+						"h": 59
+					},
+					"frame": {
+						"x": 898,
+						"y": 1001,
+						"w": 38,
+						"h": 59
+					}
+				},
+				{
+					"filename": "_SkeletonIdle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 50,
+						"w": 47,
+						"h": 52
+					},
+					"frame": {
+						"x": 916,
+						"y": 949,
+						"w": 47,
+						"h": 52
+					}
+				},
+				{
+					"filename": "_SkeletonAttack_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 43,
+						"w": 33,
+						"h": 59
+					},
+					"frame": {
+						"x": 936,
+						"y": 1001,
+						"w": 33,
+						"h": 59
+					}
+				},
+				{
+					"filename": "_SkeletonDeath_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 77,
+						"w": 56,
+						"h": 25
+					},
+					"frame": {
+						"x": 963,
+						"y": 743,
+						"w": 56,
+						"h": 25
+					}
+				},
+				{
+					"filename": "_KnightDeath_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 67,
+						"w": 42,
+						"h": 13
+					},
+					"frame": {
+						"x": 903,
+						"y": 900,
+						"w": 42,
+						"h": 13
+					}
+				},
+				{
+					"filename": "_KnightAttack2_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 44,
+						"w": 45,
+						"h": 36
+					},
+					"frame": {
+						"x": 922,
+						"y": 913,
+						"w": 45,
+						"h": 36
+					}
+				},
+				{
+					"filename": "_MushroomAttack_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 58,
+						"w": 52,
+						"h": 44
+					},
+					"frame": {
+						"x": 967,
+						"y": 768,
+						"w": 52,
+						"h": 44
+					}
+				},
+				{
+					"filename": "_FlyingEyeTakeHit_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 65,
+						"w": 22,
+						"h": 23
+					},
+					"frame": {
+						"x": 700,
+						"y": 624,
+						"w": 22,
+						"h": 23
+					}
+				},
+				{
+					"filename": "_GoblinAttack_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 65,
+						"w": 33,
+						"h": 37
+					},
+					"frame": {
+						"x": 864,
+						"y": 1056,
+						"w": 33,
+						"h": 37
+					}
+				},
+				{
+					"filename": "_KnightCombo_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 45,
+						"w": 59,
+						"h": 35
+					},
+					"frame": {
+						"x": 897,
+						"y": 1060,
+						"w": 59,
+						"h": 35
+					}
+				},
+				{
+					"filename": "_SkeletonShield_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 54,
+						"w": 40,
+						"h": 48
+					},
+					"frame": {
+						"x": 856,
+						"y": 1093,
+						"w": 40,
+						"h": 48
+					}
+				},
+				{
+					"filename": "_SkeletonDeath_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 57,
+						"w": 53,
+						"h": 45
+					},
+					"frame": {
+						"x": 896,
+						"y": 1095,
+						"w": 53,
+						"h": 45
+					}
+				},
+				{
+					"filename": "BringerOFDeathSpell_0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 36,
+						"w": 38,
+						"h": 57
+					},
+					"frame": {
+						"x": 857,
+						"y": 1141,
+						"w": 38,
+						"h": 57
+					}
+				},
+				{
+					"filename": "_MushroomDeath_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 63,
+						"w": 28,
+						"h": 39
+					},
+					"frame": {
+						"x": 935,
+						"y": 745,
+						"w": 28,
+						"h": 39
+					}
+				},
+				{
+					"filename": "_GoblinRun_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 58,
+						"y": 63,
+						"w": 29,
+						"h": 39
+					},
+					"frame": {
+						"x": 938,
+						"y": 784,
+						"w": 29,
+						"h": 39
+					}
+				},
+				{
+					"filename": "_BringerOfDeathDeath_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 87,
+						"y": 24,
+						"w": 42,
+						"h": 51
+					},
+					"frame": {
+						"x": 536,
+						"y": 1377,
+						"w": 42,
+						"h": 51
+					}
+				},
+				{
+					"filename": "_SkeletonTakeHit_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 49,
+						"w": 47,
+						"h": 53
+					},
+					"frame": {
+						"x": 529,
+						"y": 1428,
+						"w": 47,
+						"h": 53
+					}
+				},
+				{
+					"filename": "_MushroomAttack_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 58,
+						"w": 53,
+						"h": 44
+					},
+					"frame": {
+						"x": 529,
+						"y": 1481,
+						"w": 53,
+						"h": 44
+					}
+				},
+				{
+					"filename": "BringerOFDeathSpell_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 34,
+						"w": 33,
+						"h": 59
+					},
+					"frame": {
+						"x": 941,
+						"y": 823,
+						"w": 33,
+						"h": 59
+					}
+				},
+				{
+					"filename": "_KnightAttack2NoMovement_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 45,
+						"h": 36
+					},
+					"frame": {
+						"x": 974,
+						"y": 812,
+						"w": 45,
+						"h": 36
+					}
+				},
+				{
+					"filename": "_KnightCombo_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 44,
+						"w": 45,
+						"h": 36
+					},
+					"frame": {
+						"x": 974,
+						"y": 848,
+						"w": 45,
+						"h": 36
+					}
+				},
+				{
+					"filename": "_KnightDeathNoMovement_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 58,
+						"w": 38,
+						"h": 22
+					},
+					"frame": {
+						"x": 153,
+						"y": 1489,
+						"w": 38,
+						"h": 22
+					}
+				},
+				{
+					"filename": "_SkeletonTakeHit_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 49,
+						"w": 47,
+						"h": 53
+					},
+					"frame": {
+						"x": 967,
+						"y": 884,
+						"w": 47,
+						"h": 53
+					}
+				},
+				{
+					"filename": "BringerOFDeathSpell_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 34,
+						"w": 35,
+						"h": 59
+					},
+					"frame": {
+						"x": 524,
+						"y": 1209,
+						"w": 35,
+						"h": 59
+					}
+				},
+				{
+					"filename": "_SkeletonWalk_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 49,
+						"w": 47,
+						"h": 53
+					},
+					"frame": {
+						"x": 524,
+						"y": 1268,
+						"w": 47,
+						"h": 53
+					}
+				},
+				{
+					"filename": "BringerOFDeathSpell_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 34,
+						"w": 36,
+						"h": 59
+					},
+					"frame": {
+						"x": 559,
+						"y": 1202,
+						"w": 36,
+						"h": 59
+					}
+				},
+				{
+					"filename": "_SkeletonShield_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 54,
+						"w": 35,
+						"h": 48
+					},
+					"frame": {
+						"x": 595,
+						"y": 1201,
+						"w": 35,
+						"h": 48
+					}
+				},
+				{
+					"filename": "_SkeletonIdle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 51,
+						"w": 47,
+						"h": 51
+					},
+					"frame": {
+						"x": 630,
+						"y": 1206,
+						"w": 47,
+						"h": 51
+					}
+				},
+				{
+					"filename": "_SkeletonWalk_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 50,
+						"w": 47,
+						"h": 52
+					},
+					"frame": {
+						"x": 677,
+						"y": 1208,
+						"w": 47,
+						"h": 52
+					}
+				},
+				{
+					"filename": "_SkeletonWalk_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 50,
+						"w": 47,
+						"h": 52
+					},
+					"frame": {
+						"x": 724,
+						"y": 1210,
+						"w": 47,
+						"h": 52
+					}
+				},
+				{
+					"filename": "_SkeletonAttack_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 48,
+						"w": 44,
+						"h": 54
+					},
+					"frame": {
+						"x": 771,
+						"y": 1209,
+						"w": 44,
+						"h": 54
+					}
+				},
+				{
+					"filename": "BringerOFDeathSpell_0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 34,
+						"w": 36,
+						"h": 59
+					},
+					"frame": {
+						"x": 815,
+						"y": 1197,
+						"w": 36,
+						"h": 59
+					}
+				},
+				{
+					"filename": "_SkeletonWalk_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 49,
+						"w": 47,
+						"h": 53
+					},
+					"frame": {
+						"x": 851,
+						"y": 1198,
+						"w": 47,
+						"h": 53
+					}
+				},
+				{
+					"filename": "BringerOFDeathSpell_0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 36,
+						"w": 37,
+						"h": 57
+					},
+					"frame": {
+						"x": 571,
+						"y": 1261,
+						"w": 37,
+						"h": 57
+					}
+				},
+				{
+					"filename": "_KnightComboNoMovement_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 45,
+						"w": 59,
+						"h": 35
+					},
+					"frame": {
+						"x": 608,
+						"y": 1257,
+						"w": 59,
+						"h": 35
+					}
+				},
+				{
+					"filename": "_SkeletonDeath_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 87,
+						"w": 58,
+						"h": 15
+					},
+					"frame": {
+						"x": 608,
+						"y": 1292,
+						"w": 58,
+						"h": 15
+					}
+				},
+				{
+					"filename": "_KnightAttack2NoMovement_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 46,
+						"h": 36
+					},
+					"frame": {
+						"x": 667,
+						"y": 1260,
+						"w": 46,
+						"h": 36
+					}
+				},
+				{
+					"filename": "_KnightCombo_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 44,
+						"w": 46,
+						"h": 36
+					},
+					"frame": {
+						"x": 713,
+						"y": 1262,
+						"w": 46,
+						"h": 36
+					}
+				},
+				{
+					"filename": "_KnightComboNoMovement_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 46,
+						"h": 36
+					},
+					"frame": {
+						"x": 759,
+						"y": 1263,
+						"w": 46,
+						"h": 36
+					}
+				},
+				{
+					"filename": "_GoblinDeath_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 85,
+						"w": 53,
+						"h": 17
+					},
+					"frame": {
+						"x": 608,
+						"y": 1307,
+						"w": 53,
+						"h": 17
+					}
+				},
+				{
+					"filename": "BringerOFDeathSpell_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 34,
+						"w": 33,
+						"h": 55
+					},
+					"frame": {
+						"x": 567,
+						"y": 1321,
+						"w": 33,
+						"h": 55
+					}
+				},
+				{
+					"filename": "_MushroomTakeHit_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 58,
+						"w": 39,
+						"h": 44
+					},
+					"frame": {
+						"x": 600,
+						"y": 1324,
+						"w": 39,
+						"h": 44
+					}
+				},
+				{
+					"filename": "_MushroomAttack_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 55,
+						"w": 27,
+						"h": 47
+					},
+					"frame": {
+						"x": 578,
+						"y": 1376,
+						"w": 27,
+						"h": 47
+					}
+				},
+				{
+					"filename": "_MushroomTakeHit_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 57,
+						"w": 36,
+						"h": 45
+					},
+					"frame": {
+						"x": 605,
+						"y": 1368,
+						"w": 36,
+						"h": 45
+					}
+				},
+				{
+					"filename": "_BringerOfDeathDeath_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 95,
+						"y": 24,
+						"w": 35,
+						"h": 42
+					},
+					"frame": {
+						"x": 639,
+						"y": 1324,
+						"w": 35,
+						"h": 42
+					}
+				},
+				{
+					"filename": "_MushroomAttack_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 57,
+						"w": 31,
+						"h": 45
+					},
+					"frame": {
+						"x": 641,
+						"y": 1366,
+						"w": 31,
+						"h": 45
+					}
+				},
+				{
+					"filename": "_FlyingEyeAttack_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 61,
+						"w": 39,
+						"h": 28
+					},
+					"frame": {
+						"x": 666,
+						"y": 1296,
+						"w": 39,
+						"h": 28
+					}
+				},
+				{
+					"filename": "_MushroomAttack_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 57,
+						"w": 31,
+						"h": 45
+					},
+					"frame": {
+						"x": 674,
+						"y": 1324,
+						"w": 31,
+						"h": 45
+					}
+				},
+				{
+					"filename": "_KnightComboNoMovement_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 45,
+						"h": 36
+					},
+					"frame": {
+						"x": 705,
+						"y": 1298,
+						"w": 45,
+						"h": 36
+					}
+				},
+				{
+					"filename": "_KnightAttack2NoMovement_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 43,
+						"w": 42,
+						"h": 37
+					},
+					"frame": {
+						"x": 705,
+						"y": 1334,
+						"w": 42,
+						"h": 37
+					}
+				},
+				{
+					"filename": "_MushroomAttack_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 57,
+						"w": 31,
+						"h": 45
+					},
+					"frame": {
+						"x": 672,
+						"y": 1369,
+						"w": 31,
+						"h": 45
+					}
+				},
+				{
+					"filename": "_GoblinTakeHit_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 63,
+						"w": 41,
+						"h": 39
+					},
+					"frame": {
+						"x": 703,
+						"y": 1371,
+						"w": 41,
+						"h": 39
+					}
+				},
+				{
+					"filename": "_KnightCombo_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 43,
+						"w": 42,
+						"h": 37
+					},
+					"frame": {
+						"x": 750,
+						"y": 1299,
+						"w": 42,
+						"h": 37
+					}
+				},
+				{
+					"filename": "_KnightComboNoMovement_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 43,
+						"w": 42,
+						"h": 37
+					},
+					"frame": {
+						"x": 747,
+						"y": 1336,
+						"w": 42,
+						"h": 37
+					}
+				},
+				{
+					"filename": "_FlyingEyeAttack_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 60,
+						"w": 43,
+						"h": 33
+					},
+					"frame": {
+						"x": 744,
+						"y": 1373,
+						"w": 43,
+						"h": 33
+					}
+				},
+				{
+					"filename": "_KnightDeathNoMovement_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 63,
+						"w": 40,
+						"h": 17
+					},
+					"frame": {
+						"x": 414,
+						"y": 164,
+						"w": 40,
+						"h": 17
+					}
+				},
+				{
+					"filename": "_FlyingEyeFlight_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 66,
+						"w": 44,
+						"h": 26
+					},
+					"frame": {
+						"x": 967,
+						"y": 937,
+						"w": 44,
+						"h": 26
+					}
+				},
+				{
+					"filename": "_GoblinRun_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 62,
+						"w": 37,
+						"h": 38
+					},
+					"frame": {
+						"x": 963,
+						"y": 963,
+						"w": 37,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_KnightRun_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 42,
+						"w": 19,
+						"h": 38
+					},
+					"frame": {
+						"x": 1000,
+						"y": 963,
+						"w": 19,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_GoblinDeath_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 61,
+						"w": 37,
+						"h": 40
+					},
+					"frame": {
+						"x": 969,
+						"y": 1001,
+						"w": 37,
+						"h": 40
+					}
+				},
+				{
+					"filename": "_FlyingEyeAttack_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 62,
+						"w": 43,
+						"h": 31
+					},
+					"frame": {
+						"x": 969,
+						"y": 1041,
+						"w": 43,
+						"h": 31
+					}
+				},
+				{
+					"filename": "_FlyingEyeDeath_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 69,
+						"w": 21,
+						"h": 31
+					},
+					"frame": {
+						"x": 945,
+						"y": 882,
+						"w": 21,
+						"h": 31
+					}
+				},
+				{
+					"filename": "_FlyingEyeAttack_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 62,
+						"w": 43,
+						"h": 26
+					},
+					"frame": {
+						"x": 956,
+						"y": 1072,
+						"w": 43,
+						"h": 26
+					}
+				},
+				{
+					"filename": "_FlyingEyeDeath_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 60,
+						"w": 43,
+						"h": 33
+					},
+					"frame": {
+						"x": 949,
+						"y": 1098,
+						"w": 43,
+						"h": 33
+					}
+				},
+				{
+					"filename": "_GoblinRun_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 63,
+						"w": 27,
+						"h": 39
+					},
+					"frame": {
+						"x": 992,
+						"y": 1098,
+						"w": 27,
+						"h": 39
+					}
+				},
+				{
+					"filename": "_FlyingEyeFlight_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 60,
+						"w": 43,
+						"h": 33
+					},
+					"frame": {
+						"x": 949,
+						"y": 1131,
+						"w": 43,
+						"h": 33
+					}
+				},
+				{
+					"filename": "_MushroomRun_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 61,
+						"w": 27,
+						"h": 38
+					},
+					"frame": {
+						"x": 992,
+						"y": 1137,
+						"w": 27,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_KnightDeathNoMovement_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 67,
+						"w": 42,
+						"h": 13
+					},
+					"frame": {
+						"x": 308,
+						"y": 1509,
+						"w": 42,
+						"h": 13
+					}
+				},
+				{
+					"filename": "_GoblinAttack_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 64,
+						"w": 35,
+						"h": 38
+					},
+					"frame": {
+						"x": 792,
+						"y": 1299,
+						"w": 35,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_KnightAttack2_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 43,
+						"w": 38,
+						"h": 37
+					},
+					"frame": {
+						"x": 789,
+						"y": 1337,
+						"w": 38,
+						"h": 37
+					}
+				},
+				{
+					"filename": "_FlyingEyeTakeHit_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 60,
+						"w": 43,
+						"h": 33
+					},
+					"frame": {
+						"x": 787,
+						"y": 1374,
+						"w": 43,
+						"h": 33
+					}
+				},
+				{
+					"filename": "_GoblinAttack_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 66,
+						"w": 31,
+						"h": 36
+					},
+					"frame": {
+						"x": 805,
+						"y": 1263,
+						"w": 31,
+						"h": 36
+					}
+				},
+				{
+					"filename": "_MushroomAttack_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 60,
+						"w": 25,
+						"h": 42
+					},
+					"frame": {
+						"x": 827,
+						"y": 1299,
+						"w": 25,
+						"h": 42
+					}
+				},
+				{
+					"filename": "_FlyingEyeFlight_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 59,
+						"w": 42,
+						"h": 31
+					},
+					"frame": {
+						"x": 827,
+						"y": 1341,
+						"w": 42,
+						"h": 31
+					}
+				},
+				{
+					"filename": "_KnightAttack_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 43,
+						"w": 39,
+						"h": 37
+					},
+					"frame": {
+						"x": 830,
+						"y": 1372,
+						"w": 39,
+						"h": 37
+					}
+				},
+				{
+					"filename": "_KnightIdle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 42,
+						"w": 21,
+						"h": 38
+					},
+					"frame": {
+						"x": 938,
+						"y": 296,
+						"w": 21,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_FlyingEyeFlight_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 65,
+						"w": 42,
+						"h": 26
+					},
+					"frame": {
+						"x": 851,
+						"y": 1251,
+						"w": 42,
+						"h": 26
+					}
+				},
+				{
+					"filename": "_KnightAttackNoMovement_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 43,
+						"w": 39,
+						"h": 37
+					},
+					"frame": {
+						"x": 852,
+						"y": 1277,
+						"w": 39,
+						"h": 37
+					}
+				},
+				{
+					"filename": "_FlyingEyeFlight_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 64,
+						"w": 41,
+						"h": 27
+					},
+					"frame": {
+						"x": 852,
+						"y": 1314,
+						"w": 41,
+						"h": 27
+					}
+				},
+				{
+					"filename": "_KnightDeath_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 41,
+						"w": 30,
+						"h": 39
+					},
+					"frame": {
+						"x": 869,
+						"y": 1341,
+						"w": 30,
+						"h": 39
+					}
+				},
+				{
+					"filename": "_GoblinAttack_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 64,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 869,
+						"y": 1380,
+						"w": 30,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_FlyingEyeAttack_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 66,
+						"w": 37,
+						"h": 26
+					},
+					"frame": {
+						"x": 605,
+						"y": 1413,
+						"w": 37,
+						"h": 26
+					}
+				},
+				{
+					"filename": "_KnightDeathNoMovement_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 41,
+						"w": 30,
+						"h": 39
+					},
+					"frame": {
+						"x": 642,
+						"y": 1411,
+						"w": 30,
+						"h": 39
+					}
+				},
+				{
+					"filename": "_GoblinAttack_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 66,
+						"w": 31,
+						"h": 36
+					},
+					"frame": {
+						"x": 672,
+						"y": 1414,
+						"w": 31,
+						"h": 36
+					}
+				},
+				{
+					"filename": "_KnightCombo_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 43,
+						"w": 39,
+						"h": 37
+					},
+					"frame": {
+						"x": 703,
+						"y": 1410,
+						"w": 39,
+						"h": 37
+					}
+				},
+				{
+					"filename": "_KnightDeath_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 40,
+						"w": 29,
+						"h": 39
+					},
+					"frame": {
+						"x": 576,
+						"y": 1428,
+						"w": 29,
+						"h": 39
+					}
+				},
+				{
+					"filename": "_GoblinIdle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 64,
+						"w": 35,
+						"h": 38
+					},
+					"frame": {
+						"x": 605,
+						"y": 1439,
+						"w": 35,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_FlyingEyeFlight_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 67,
+						"w": 42,
+						"h": 27
+					},
+					"frame": {
+						"x": 640,
+						"y": 1450,
+						"w": 42,
+						"h": 27
+					}
+				},
+				{
+					"filename": "_KnightComboNoMovement_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 43,
+						"w": 39,
+						"h": 37
+					},
+					"frame": {
+						"x": 582,
+						"y": 1477,
+						"w": 39,
+						"h": 37
+					}
+				},
+				{
+					"filename": "_KnightDeathNoMovement_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 67,
+						"w": 42,
+						"h": 13
+					},
+					"frame": {
+						"x": 582,
+						"y": 1514,
+						"w": 42,
+						"h": 13
+					}
+				},
+				{
+					"filename": "_KnightAttack2NoMovement_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 43,
+						"w": 38,
+						"h": 37
+					},
+					"frame": {
+						"x": 621,
+						"y": 1477,
+						"w": 38,
+						"h": 37
+					}
+				},
+				{
+					"filename": "_GoblinIdle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 65,
+						"w": 35,
+						"h": 37
+					},
+					"frame": {
+						"x": 659,
+						"y": 1477,
+						"w": 35,
+						"h": 37
+					}
+				},
+				{
+					"filename": "_FlyingEyeAttack_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 66,
+						"w": 35,
+						"h": 26
+					},
+					"frame": {
+						"x": 682,
+						"y": 1450,
+						"w": 35,
+						"h": 26
+					}
+				},
+				{
+					"filename": "_GoblinRun_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 64,
+						"w": 28,
+						"h": 38
+					},
+					"frame": {
+						"x": 694,
+						"y": 1476,
+						"w": 28,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_MushroomDeath_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 73,
+						"w": 25,
+						"h": 29
+					},
+					"frame": {
+						"x": 717,
+						"y": 1447,
+						"w": 25,
+						"h": 29
+					}
+				},
+				{
+					"filename": "_GoblinRun_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 64,
+						"w": 28,
+						"h": 38
+					},
+					"frame": {
+						"x": 722,
+						"y": 1476,
+						"w": 28,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_FlyingEyeFlight_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 67,
+						"w": 42,
+						"h": 26
+					},
+					"frame": {
+						"x": 744,
+						"y": 1406,
+						"w": 42,
+						"h": 26
+					}
+				},
+				{
+					"filename": "_KnightCombo_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 43,
+						"w": 38,
+						"h": 37
+					},
+					"frame": {
+						"x": 742,
+						"y": 1432,
+						"w": 38,
+						"h": 37
+					}
+				},
+				{
+					"filename": "_GoblinDeath_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 77,
+						"w": 39,
+						"h": 25
+					},
+					"frame": {
+						"x": 786,
+						"y": 1407,
+						"w": 39,
+						"h": 25
+					}
+				},
+				{
+					"filename": "_KnightComboNoMovement_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 43,
+						"w": 38,
+						"h": 37
+					},
+					"frame": {
+						"x": 780,
+						"y": 1432,
+						"w": 38,
+						"h": 37
+					}
+				},
+				{
+					"filename": "_GoblinTakeHit_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 64,
+						"w": 35,
+						"h": 38
+					},
+					"frame": {
+						"x": 750,
+						"y": 1469,
+						"w": 35,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_GoblinTakeHit_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 64,
+						"w": 35,
+						"h": 38
+					},
+					"frame": {
+						"x": 785,
+						"y": 1469,
+						"w": 35,
+						"h": 38
+					}
+				},
+				{
+					"filename": "BringerOFDeathSpell_0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 34,
+						"w": 31,
+						"h": 20
+					},
+					"frame": {
+						"x": 750,
+						"y": 1507,
+						"w": 31,
+						"h": 20
+					}
+				},
+				{
+					"filename": "_KnightDeath_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 55,
+						"w": 39,
+						"h": 24
+					},
+					"frame": {
+						"x": 825,
+						"y": 1409,
+						"w": 39,
+						"h": 24
+					}
+				},
+				{
+					"filename": "_GoblinIdle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 66,
+						"w": 35,
+						"h": 36
+					},
+					"frame": {
+						"x": 818,
+						"y": 1433,
+						"w": 35,
+						"h": 36
+					}
+				},
+				{
+					"filename": "BringerOFDeathSpell_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 34,
+						"w": 33,
+						"h": 38
+					},
+					"frame": {
+						"x": 820,
+						"y": 1469,
+						"w": 33,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_KnightDeathNoMovement_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 40,
+						"w": 29,
+						"h": 39
+					},
+					"frame": {
+						"x": 853,
+						"y": 1433,
+						"w": 29,
+						"h": 39
+					}
+				},
+				{
+					"filename": "_GoblinAttack_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 66,
+						"w": 31,
+						"h": 36
+					},
+					"frame": {
+						"x": 853,
+						"y": 1472,
+						"w": 31,
+						"h": 36
+					}
+				},
+				{
+					"filename": "_GoblinRun_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 62,
+						"w": 35,
+						"h": 37
+					},
+					"frame": {
+						"x": 891,
+						"y": 1277,
+						"w": 35,
+						"h": 37
+					}
+				},
+				{
+					"filename": "_FlyingEyeTakeHit_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 63,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 893,
+						"y": 1251,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "_KnightDeath_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 49,
+						"w": 33,
+						"h": 25
+					},
+					"frame": {
+						"x": 893,
+						"y": 1314,
+						"w": 33,
+						"h": 25
+					}
+				},
+				{
+					"filename": "_KnightRun_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 42,
+						"w": 29,
+						"h": 38
+					},
+					"frame": {
+						"x": 899,
+						"y": 1339,
+						"w": 29,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_KnightRun_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 42,
+						"w": 30,
+						"h": 37
+					},
+					"frame": {
+						"x": 899,
+						"y": 1377,
+						"w": 30,
+						"h": 37
+					}
+				},
+				{
+					"filename": "_KnightIdle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 42,
+						"w": 21,
+						"h": 38
+					},
+					"frame": {
+						"x": 928,
+						"y": 1140,
+						"w": 21,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_KnightDeathNoMovement_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 55,
+						"w": 39,
+						"h": 24
+					},
+					"frame": {
+						"x": 949,
+						"y": 1164,
+						"w": 39,
+						"h": 24
+					}
+				},
+				{
+					"filename": "BringerOFDeathSpell_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 34,
+						"w": 31,
+						"h": 25
+					},
+					"frame": {
+						"x": 988,
+						"y": 1175,
+						"w": 31,
+						"h": 25
+					}
+				},
+				{
+					"filename": "_KnightDeathNoMovement_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 49,
+						"w": 33,
+						"h": 25
+					},
+					"frame": {
+						"x": 895,
+						"y": 1141,
+						"w": 33,
+						"h": 25
+					}
+				},
+				{
+					"filename": "BringerOFDeathSpell_0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 34,
+						"w": 33,
+						"h": 21
+					},
+					"frame": {
+						"x": 895,
+						"y": 1166,
+						"w": 33,
+						"h": 21
+					}
+				},
+				{
+					"filename": "_KnightTurnAround_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 45,
+						"w": 29,
+						"h": 35
+					},
+					"frame": {
+						"x": 898,
+						"y": 1187,
+						"w": 29,
+						"h": 35
+					}
+				},
+				{
+					"filename": "_MushroomDeath_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 74,
+						"w": 25,
+						"h": 28
+					},
+					"frame": {
+						"x": 898,
+						"y": 1222,
+						"w": 25,
+						"h": 28
+					}
+				},
+				{
+					"filename": "_MushroomAttack_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 63,
+						"w": 25,
+						"h": 39
+					},
+					"frame": {
+						"x": 882,
+						"y": 1418,
+						"w": 25,
+						"h": 39
+					}
+				},
+				{
+					"filename": "_MushroomDeath_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 63,
+						"w": 25,
+						"h": 39
+					},
+					"frame": {
+						"x": 907,
+						"y": 1414,
+						"w": 25,
+						"h": 39
+					}
+				},
+				{
+					"filename": "_MushroomIdle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 63,
+						"w": 25,
+						"h": 39
+					},
+					"frame": {
+						"x": 884,
+						"y": 1457,
+						"w": 25,
+						"h": 39
+					}
+				},
+				{
+					"filename": "_MushroomRun_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 62,
+						"w": 25,
+						"h": 39
+					},
+					"frame": {
+						"x": 909,
+						"y": 1453,
+						"w": 25,
+						"h": 39
+					}
+				},
+				{
+					"filename": "_KnightIdle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 42,
+						"w": 21,
+						"h": 38
+					},
+					"frame": {
+						"x": 928,
+						"y": 1178,
+						"w": 21,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_KnightDeath_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 57,
+						"w": 38,
+						"h": 23
+					},
+					"frame": {
+						"x": 949,
+						"y": 1188,
+						"w": 38,
+						"h": 23
+					}
+				},
+				{
+					"filename": "_KnightDeathNoMovement_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 57,
+						"w": 38,
+						"h": 23
+					},
+					"frame": {
+						"x": 949,
+						"y": 1211,
+						"w": 38,
+						"h": 23
+					}
+				},
+				{
+					"filename": "_KnightRun_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 41,
+						"w": 27,
+						"h": 36
+					},
+					"frame": {
+						"x": 987,
+						"y": 1200,
+						"w": 27,
+						"h": 36
+					}
+				},
+				{
+					"filename": "_KnightRun_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 43,
+						"w": 26,
+						"h": 37
+					},
+					"frame": {
+						"x": 923,
+						"y": 1222,
+						"w": 26,
+						"h": 37
+					}
+				},
+				{
+					"filename": "_KnightDeath_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 50,
+						"w": 36,
+						"h": 23
+					},
+					"frame": {
+						"x": 949,
+						"y": 1234,
+						"w": 36,
+						"h": 23
+					}
+				},
+				{
+					"filename": "BringerOFDeathSpell_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 34,
+						"w": 34,
+						"h": 21
+					},
+					"frame": {
+						"x": 985,
+						"y": 1236,
+						"w": 34,
+						"h": 21
+					}
+				},
+				{
+					"filename": "_MushroomRun_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 63,
+						"w": 25,
+						"h": 39
+					},
+					"frame": {
+						"x": 926,
+						"y": 1259,
+						"w": 25,
+						"h": 39
+					}
+				},
+				{
+					"filename": "_MushroomRun_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 62,
+						"w": 25,
+						"h": 39
+					},
+					"frame": {
+						"x": 926,
+						"y": 1298,
+						"w": 25,
+						"h": 39
+					}
+				},
+				{
+					"filename": "_MushroomRun_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 61,
+						"w": 26,
+						"h": 38
+					},
+					"frame": {
+						"x": 951,
+						"y": 1257,
+						"w": 26,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_MushroomTakeHit_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 63,
+						"w": 25,
+						"h": 39
+					},
+					"frame": {
+						"x": 951,
+						"y": 1295,
+						"w": 25,
+						"h": 39
+					}
+				},
+				{
+					"filename": "_KnightRun_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 43,
+						"w": 26,
+						"h": 37
+					},
+					"frame": {
+						"x": 977,
+						"y": 1257,
+						"w": 26,
+						"h": 37
+					}
+				},
+				{
+					"filename": "_MushroomTakeHit_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 63,
+						"w": 25,
+						"h": 39
+					},
+					"frame": {
+						"x": 928,
+						"y": 1337,
+						"w": 25,
+						"h": 39
+					}
+				},
+				{
+					"filename": "_MushroomIdle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 64,
+						"w": 25,
+						"h": 38
+					},
+					"frame": {
+						"x": 929,
+						"y": 1376,
+						"w": 25,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_MushroomIdle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 64,
+						"w": 25,
+						"h": 38
+					},
+					"frame": {
+						"x": 932,
+						"y": 1414,
+						"w": 25,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_MushroomRun_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 61,
+						"w": 25,
+						"h": 38
+					},
+					"frame": {
+						"x": 934,
+						"y": 1452,
+						"w": 25,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_MushroomIdle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 65,
+						"w": 25,
+						"h": 37
+					},
+					"frame": {
+						"x": 953,
+						"y": 1334,
+						"w": 25,
+						"h": 37
+					}
+				},
+				{
+					"filename": "_KnightRun_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 41,
+						"w": 26,
+						"h": 36
+					},
+					"frame": {
+						"x": 954,
+						"y": 1371,
+						"w": 26,
+						"h": 36
+					}
+				},
+				{
+					"filename": "_KnightIdle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 42,
+						"w": 21,
+						"h": 38
+					},
+					"frame": {
+						"x": 957,
+						"y": 1407,
+						"w": 21,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_KnightIdle_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 42,
+						"w": 21,
+						"h": 38
+					},
+					"frame": {
+						"x": 959,
+						"y": 1445,
+						"w": 21,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_KnightIdle_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 42,
+						"w": 21,
+						"h": 38
+					},
+					"frame": {
+						"x": 978,
+						"y": 1407,
+						"w": 21,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_KnightIdle_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 42,
+						"w": 21,
+						"h": 38
+					},
+					"frame": {
+						"x": 980,
+						"y": 1445,
+						"w": 21,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_KnightDeathNoMovement_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 50,
+						"w": 36,
+						"h": 23
+					},
+					"frame": {
+						"x": 959,
+						"y": 1483,
+						"w": 36,
+						"h": 23
+					}
+				},
+				{
+					"filename": "_KnightTurnAround_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 44,
+						"w": 25,
+						"h": 36
+					},
+					"frame": {
+						"x": 934,
+						"y": 1490,
+						"w": 25,
+						"h": 36
+					}
+				},
+				{
+					"filename": "BringerOFDeathSpell_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 34,
+						"w": 34,
+						"h": 21
+					},
+					"frame": {
+						"x": 959,
+						"y": 1506,
+						"w": 34,
+						"h": 21
+					}
+				},
+				{
+					"filename": "_KnightRun_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 42,
+						"w": 18,
+						"h": 38
+					},
+					"frame": {
+						"x": 1001,
+						"y": 1294,
+						"w": 18,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_KnightIdle_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 42,
+						"w": 21,
+						"h": 38
+					},
+					"frame": {
+						"x": 980,
+						"y": 1294,
+						"w": 21,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_KnightTurnAround_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 44,
+						"w": 27,
+						"h": 36
+					},
+					"frame": {
+						"x": 978,
+						"y": 1332,
+						"w": 27,
+						"h": 36
+					}
+				},
+				{
+					"filename": "_KnightIdle_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 42,
+						"w": 21,
+						"h": 38
+					},
+					"frame": {
+						"x": 980,
+						"y": 1368,
+						"w": 21,
+						"h": 38
+					}
+				},
+				{
+					"filename": "_KnightRun_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 43,
+						"w": 18,
+						"h": 37
+					},
+					"frame": {
+						"x": 1001,
+						"y": 1368,
+						"w": 18,
+						"h": 37
+					}
+				},
+				{
+					"filename": "_KnightRun_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 43,
+						"w": 18,
+						"h": 37
+					},
+					"frame": {
+						"x": 1001,
+						"y": 1405,
+						"w": 18,
+						"h": 37
+					}
+				},
+				{
+					"filename": "BringerOFDeathSpell_0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 34,
+						"w": 33,
+						"h": 21
+					},
+					"frame": {
+						"x": 884,
+						"y": 1496,
+						"w": 33,
+						"h": 21
+					}
+				},
+				{
+					"filename": "_KnightIdle_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 42,
+						"w": 21,
+						"h": 38
+					},
+					"frame": {
+						"x": 995,
+						"y": 1483,
+						"w": 21,
+						"h": 38
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6b7295f6e7762043173e05f74222d252:d93904dec220b22ce9a2ec4935870611:78f5cb85136f56011bdfdc1239f9a678$"
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "Simple_Characters_Boss_3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1728,
+				"h": 768
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "FrostGuardian.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1728,
+						"h": 768
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1728,
+						"h": 768
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1728,
+						"h": 768
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6d91ac3df7941f3f233929cd85417fd8:b2127be022df11e07ce1c0998cc44fad:00d1a41727a18ab68551d0e68088feea$"
+	}
+}

@@ -1,0 +1,1280 @@
+{
+	"textures": [
+		{
+			"image": "DemonSlime.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1728,
+				"h": 1600
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "_DemonSlimeAttack_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 288,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 576,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 864,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 1152,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 1440,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 0,
+						"y": 160,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 288,
+						"y": 160,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 576,
+						"y": 160,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 864,
+						"y": 160,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_0010.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 1152,
+						"y": 160,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_0011.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 1440,
+						"y": 160,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_0012.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 0,
+						"y": 320,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_0013.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 288,
+						"y": 320,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeAttack_0014.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 576,
+						"y": 320,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 864,
+						"y": 320,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 1152,
+						"y": 320,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 1440,
+						"y": 320,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 0,
+						"y": 480,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 288,
+						"y": 480,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 576,
+						"y": 480,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 864,
+						"y": 480,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 1152,
+						"y": 480,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 1440,
+						"y": 480,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 0,
+						"y": 640,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_0010.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 288,
+						"y": 640,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_0011.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 576,
+						"y": 640,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_0012.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 864,
+						"y": 640,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_0013.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 1152,
+						"y": 640,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_0014.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 1440,
+						"y": 640,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_0015.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 0,
+						"y": 800,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_0016.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 288,
+						"y": 800,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_0017.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 576,
+						"y": 800,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_0018.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 864,
+						"y": 800,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_0019.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 1152,
+						"y": 800,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_0020.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 1440,
+						"y": 800,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeDeath_0021.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 0,
+						"y": 960,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeIdle_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 288,
+						"y": 960,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeIdle_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 576,
+						"y": 960,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeIdle_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 864,
+						"y": 960,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeIdle_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 1152,
+						"y": 960,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeIdle_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 1440,
+						"y": 960,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeIdle_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 0,
+						"y": 1120,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeTakeHit_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 288,
+						"y": 1120,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeTakeHit_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 576,
+						"y": 1120,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeTakeHit_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 864,
+						"y": 1120,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeTakeHit_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 1152,
+						"y": 1120,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeTakeHit_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 1440,
+						"y": 1120,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeWalk_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 0,
+						"y": 1280,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeWalk_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 288,
+						"y": 1280,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeWalk_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 576,
+						"y": 1280,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeWalk_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 864,
+						"y": 1280,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeWalk_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 1152,
+						"y": 1280,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeWalk_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 1440,
+						"y": 1280,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeWalk_006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 0,
+						"y": 1440,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeWalk_007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 288,
+						"y": 1440,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeWalk_008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 576,
+						"y": 1440,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeWalk_009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 864,
+						"y": 1440,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeWalk_0010.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 1152,
+						"y": 1440,
+						"w": 288,
+						"h": 160
+					}
+				},
+				{
+					"filename": "_DemonSlimeWalk_0011.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 160
+					},
+					"frame": {
+						"x": 1440,
+						"y": 1440,
+						"w": 288,
+						"h": 160
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2eba045c7be0e0071f83a0d7bf9cbbe4:5f9a2eb4d3b8f0f8830136ad8054bd76:16c20dc9dca4eeb237b3bff904ed7c01$"
+	}
+}

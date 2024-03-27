@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "Simple_Characters_Enemy.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1802,
+				"h": 1988
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "FlyingEye.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1800,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1800,
+						"h": 300
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1800,
+						"h": 300
+					}
+				},
+				{
+					"filename": "Knight.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1680,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1680,
+						"h": 480
+					},
+					"frame": {
+						"x": 1,
+						"y": 303,
+						"w": 1680,
+						"h": 480
+					}
+				},
+				{
+					"filename": "Goblin.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1050,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1050,
+						"h": 600
+					},
+					"frame": {
+						"x": 1,
+						"y": 785,
+						"w": 1050,
+						"h": 600
+					}
+				},
+				{
+					"filename": "Mushroom.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1050,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1050,
+						"h": 600
+					},
+					"frame": {
+						"x": 1,
+						"y": 1387,
+						"w": 1050,
+						"h": 600
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c4c8821df14ef7635b3f35ed1b2676b0:54f09931acbcc1d66562beff3bdd11fb:660d8741c55238b9d39d58718750d210$"
+	}
+}

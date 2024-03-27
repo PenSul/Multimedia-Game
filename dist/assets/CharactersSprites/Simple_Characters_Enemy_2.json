@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "Simple_Characters_Enemy_2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 992,
+				"h": 511
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Skeleton.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1050,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 43,
+						"w": 990,
+						"h": 509
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 990,
+						"h": 509
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:71fe5967ec3acfebd33517ac728ffcd3:2e7e91658712fa2c90e2c401ae434a28:58226e0be523b49752db6c2d902ee607$"
+	}
+}
