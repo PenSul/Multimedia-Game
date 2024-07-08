@@ -12,15 +12,6 @@
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#built-with">Built With</a></li>
-    <li><a href="#license">License</a></li>
-  </ol>
-</details>
-
 ### Built With
 [![Phaser][Phaser.js]][Phaser-url]
 
