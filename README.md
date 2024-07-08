@@ -17,9 +17,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <ul>
         <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li><a href="#license">License</a></li>
   </ol>
